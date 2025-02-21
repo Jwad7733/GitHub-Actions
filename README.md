@@ -1,2 +1,2 @@
-# GitHub-Actions
+# github/workflows
 انتاج ارقام
