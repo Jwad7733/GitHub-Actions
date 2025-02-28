@@ -19,4 +19,3 @@ import random
          print("تم رفع الرموز بنجاح!")
      else:
          print("حدث خطأ أثناء رفع الرموز:", response.error)
-python add_codes.py
