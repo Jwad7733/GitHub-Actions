@@ -1,4 +1,3 @@
-
 name: Add Codes to Supabase
    on: [push]
    jobs:
